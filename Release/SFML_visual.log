@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(10,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(11,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(20,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(21,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(22,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(40,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(41,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(42,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(119,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(120,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(160,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(322,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(322,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(324,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(324,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(326,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Legion\Desktop\SFML environment\SFML_visual\main.cpp(326,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML_visual.vcxproj -> C:\Users\Legion\Desktop\SFML environment\SFML_visual\Release\SFML_visual.exe
