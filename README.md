@@ -1,2 +1,2 @@
 # ElevatorOOP
-University Project 
+University Project using SFML library
